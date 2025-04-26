@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ai-safety-incident-dashboard/static/css/main.11394041.css",
+    "main.js": "/ai-safety-incident-dashboard/static/js/main.c709a1ce.js",
+    "index.html": "/ai-safety-incident-dashboard/index.html",
+    "main.11394041.css.map": "/ai-safety-incident-dashboard/static/css/main.11394041.css.map",
+    "main.c709a1ce.js.map": "/ai-safety-incident-dashboard/static/js/main.c709a1ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11394041.css",
+    "static/js/main.c709a1ce.js"
+  ]
+}
