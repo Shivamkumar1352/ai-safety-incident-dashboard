@@ -9,6 +9,8 @@ It lets users:
 
 ---
 
+[**Live Preview**](https://shivamkumar1352.github.io/ai-safety-incident-dashboard/)
+
 ## 🚀 Tech Stack
 
 - **React** (Create React App)
