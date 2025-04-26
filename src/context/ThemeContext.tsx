@@ -11,10 +11,10 @@ interface ThemeContextType {
 const ThemeContext = createContext<ThemeContextType | undefined>(undefined);
 
 export const ThemeProvider = ({ children }: { children: ReactNode }) => {
-  const [mode, setMode] = useState<ThemeMode>('light');
+  const [mode, setMode] = useState<ThemeMode>('dark');
 
   const toggleTheme = () => {
-    setMode(prevMode => (prevMode === 'light' ? 'dark' : 'light'));
+    setMode(prevMode => (prevMode === 'dark' ? 'light' : 'dark'));
   };
 
   const theme = useMemo(() => createTheme({
